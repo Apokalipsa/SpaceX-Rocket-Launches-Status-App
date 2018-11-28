@@ -1,0 +1,16 @@
+{
+  "name": "spacex-rocket-launch-status",
+  "version": "1.0.0",
+  "description": "App that shows SpaceX rocket launch missions",
+  "main": "server.js",
+  "scripts": {
+   
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Dijana Junuzovic",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
